@@ -12,11 +12,10 @@ public class TimerTest {
 
 			@Override
 			public void run() {
-				// TODO Auto-generated method stub
 				System.out.println("hello world");
 			}
 		}, 5000, 500);
-		//5000, Ã¿´ÎµÈ0.5Ãë
+		//5000, 500ä¸ºé—´éš”
 	}
 	
 	

@@ -75,7 +75,7 @@ public class SimpleExample {
     // run the job!
     log.info("------- Waiting 5 seconds... -------------");
     try {
-      // wait 65 seconds to show job
+      // wait 5 seconds to show job
       Thread.sleep(5L * 1000L);
       // executing...
     } catch (Exception e) {
